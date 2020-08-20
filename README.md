@@ -1,5 +1,5 @@
 # A3C-Stock-broker
-This is a (failed) project that attempted to come up with a winning strategy for trading forex pairs. I believe it failed due to a lack of information and lack of data normalization. I would like to revisit this some time in the future, after learning more about current methods of stock forecasting.
+This is a (failed) project that attempted to come up with a winning strategy for trading forex pairs. Ultimately I did not understand the Forex market well enough from a statistical point of view to make a profit. It did, however, tell me not to make any trades, which was the strategy I ended up using. I would like to revisit this some time in the future, after learning more about current methods of stock forecasting.
 
 The basic way it worked was this:
 1) I scraped the last ten years of Forex data off of a website
