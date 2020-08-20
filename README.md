@@ -3,6 +3,6 @@ This is a (failed) project that attempted to come up with a winning strategy for
 
 The basic way it worked was this:
 1) I scraped the last ten years of Forex data off of a website
-2) I visualized the data to decide what is the best interval of time to try to make a preidction. I  didn't include my visualizations in this repo.
+2) I visualized the data to decide what is the best interval of time to try to make a prediction. I  didn't include my visualizations in this repo.
 3) I transformed the data into the ohlc every ten minutes, then tried to predict it with a rnn regressor
 4) this fed into a reinforcement algorithm
